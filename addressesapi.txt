@@ -1,12 +1,10 @@
 mfa.gov.ua#CF
 saas.sin.fan#CF
 store.ubi.com#CF
-cf.130519.xyz#CF
-cf.008500.xyz#CF
 cf.090227.xyz#CF
-cf.3666888.xyz#CF
 cdns.doon.eu.org#CF
 cf.tencentapp.cn#CF
-sub.danfeng.eu.org#CF
+www.shopify.com#CF
 cf.zhetengsha.eu.org#CF
 staticdelivery.nexusmods.com#CF
+cloudflare-dl.byoip.top#CF
